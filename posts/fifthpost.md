@@ -40,3 +40,54 @@ I’m just looking at new terms. like fi. - if else fi
 
 [YouTube](https://www.youtube.com/watch?v=philyDq8aaw)
 [YouTube](https://www.youtube.com/watch?v=E4kc0Aby2vA)
+
+# today i learn
+```
+if a == 1 or b == 1:
+	return False
+```
+
+Ez szuperjó, csak így tovább.
+
+`echo $1 | perl -e ‘($_) = <>; s/ +//g; print $_’`
+
+`echo ${1// /}`
+
+`echo "$1" | tr -d " "`
+
+ `(1..n).inject(:*) || 1`
+
+```
+def factorial(num)
+  return 1 unless num > 0
+  num * factorial(num - 1)
+end
+```
+
+
+I created a program in Ruby that checks whether a string is made of all upcase letters. I researched whatever I need to create it online. I used the StackOverflow forum and I tried different solutions with regular expressions that didn’t work for some reason. I saw the term monkey patching. After I solved the exercise I looked at other people’s solutions and saved a few into my notes, for example:
+
+`self.index(/[a-z]/).nil?`
+
+`/\p{Upper}/`
+
+` scan(/[a-z]/).empty?`
+
+`chars.all? { |c| c == c.upcase }`
+
+
+```
+x, y = 0, 1
+    for i in range(n):
+        x, y = y, y + x
+    return x
+```
+
+```
+def count_positives_sum_negatives(lst)
+  return [] if lst.nil? || lst.empty?
+  [lst.count(&:positive?), lst.select(&:negative?).reduce(0, :+)]
+end
+```
+
+To see the structure of code. Reading articles improves thinking and speech. Solving little problems, researching, doing, improving, for process. Writing improves speech and thinking.
