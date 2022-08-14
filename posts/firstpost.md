@@ -1,26 +1,42 @@
 ---
-title: This is my first blog post on this 11ty page 🏖.
-description: This is not a post about agile frameworks.
-date: 2018-05-01
+title: This is my first post.
+description: This is a post on My Blog about learning and documenting my code learning journey😉.
+date: 2022-08-14
 tags:
-  - another tag
+  - code, documentation, thinking
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# I don’t have to understand what a static site is to create an 11ty blog
+The idea is to document my learning throughout the days and weeks. For example I am doing the easiest algorithms on codewars and I learn a ton. For example I learnt the `uniq` method, `sorted()`, `set()`, `[ $a -lt $b ]` is a conditional operation where the left hand side is less than the right hand side. It doesn’t matter where I start learning, I found this learning style, like in jiu jitsu, one learns sporadically from the vast array of techniques and over time a unique knowledge develops, as if it was a greater picture built from puzzle pieces. This is similar to what is shown in the Learning How to Learn course and in Barbara Oakley’s book Mind for Numbers. I am learning how to set up an 11ty page and how to create a blog with 11ty from a starting project.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Today I learnt
 
-## Section Header
+Today I learnt
+What is final in Java [Java final Keyword](https://www.w3schools.com/java/ref_keyword_final.asp). Wrote my first program in TypeScript. Final is like const in JavaScript
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Is there a way to practice automated testing on codewars?
 
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
-+	counter++;
-}
+The idea for today is to do 8-6kyu katas in different languages I am learning and to keep exploring lightly. I do zone two cardio and listened to an episode of the Huberman podcast to ward against depression.
 
-// Test with a line break above this line.
-console.log('Test');
 ```
+function wardAgainstDepression(person){
+	person.listen(podcast)
+	person.do(zoneTwoCardio)
+	while(daytime) {
+		!!happy && return person
+	} return -1
+}
+```
+
+I did a codechallenge which was fun, I had to implement a binarySearch function from a diagram in node, and then created a simple blog page in HTML and CSS. Fingers crossed I will get the job and will have a good income and will go 🏄🏻‍♂️.
+
+How can I write tests to simple programs?
+
+[YouTube](https://www.youtube.com/watch?v=V5AcjXPSX4Q)
+
+At the end of the day I can share everything on facebook if it is creative.
+
+I’m just looking at new terms. like fi. - if else fi
+
+[YouTube](https://www.youtube.com/watch?v=philyDq8aaw)
+[YouTube](https://www.youtube.com/watch?v=E4kc0Aby2vA)
