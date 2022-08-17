@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Callback</h2>
+
+<p>Wait 3 seconds (3000 milliseconds) for this page to change.</p>
+
+<h1 id="demo"></h1>
+
+<p id="demo-p"></p> 
+
+<h2>Hello World!</h2>
+
+<script>
+setTimeout(myFunction, 3000);
+setTimeout(myDisplay, 3000);
+setTimeout(nextMessage, 5000);
+
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "I love You !!";
+}
+
+function myDisplay() {
+    document.getElementById("demo-p").innerHTML = "Wait 5 seconds (5000 milliseconds) for input box."
+}
+
+
+
+
+
+</script>
+
+</body>
+</html>
