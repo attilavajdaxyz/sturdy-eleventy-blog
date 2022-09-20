@@ -1,7 +1,7 @@
 ---
 title: This is my fourteent post.😉
 description: This is a post on My Blog about learning to code.
-date: 2022-09-08
+date: 2022-09-10
 tags:
   - number 2
 layout: layouts/post.njk
