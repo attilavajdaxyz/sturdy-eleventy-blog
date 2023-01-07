@@ -1,0 +1,13 @@
+---
+title: This is my eighteenth post.
+description: This is a post on My Blog about learning and documenting my code learning journey😉.
+date: 2023-01-7
+tags:
+  - code, documentation, thinking
+layout: layouts/post.njk
+---
+#public learning
+I will try to do some public learning. So, I started learning mathematics, computer science and jazz music. I am excited because I read that working on open source projects can be a good way to get experience as a programmer. I haven`t thought of this idea before and was happy to realize the power of this idea. So, I looked at a few projects and had no clue what anything meant in the folders and what the actual issues and pull requests meant, but I decided to spend time with it and to learn it. I learned that the name of the many folders and source code is the codebase. So, I am learning how the codebase works. It is fun. the other cool thing that happened is that I started using ChatGPT and I am learning a ton with it. For example, I can paste the name and description of the issues and pull requests and ask OpenAi what everything means and this way I can understand hwat is going on. Also, OpenAI helps with taking steps and figuring out how to go about solving the issues, what to type into the cli, where to look for everything. Working on open source gives me the sense of being emplyed from day one, straight away, which was my idea of an ideal work place . Without interviews, tests, etc… It solved my frustration over finding a junior position in order to get expreience as a programmer.
+
+Sam 7 janv 
+Yesterday I started making Arduino projects with OpenAi, I always ask what is the big idea behind things, for example what is `r(t + delta t) = r(t) + v * delta t` and I also ask for open-ended tasks to think about and do. And so we are building simple set-ups to as open-ended explorations of physics. Today I am learning about rectangles, squares, rhombuses, kites and other quadrilaterals and their properties. It is a good idea to ask the OpenAi about the big idea of everything and where everything is applied in life and computer science and ask for examples. We drew a square with pygame. I like the many comments in the code. I learned about the size of number sets, paradoxes of infinity, countability, aleph null, the interesting property of aleph null for addition and multiplication: `aleph null + aleph null = aleph null` and `aleph null * aleph null = aleph null`. I started practicing the basic block chords from the harmony book to 100 bpm and made many mistakes with left or right hand and two hands together. I am learning to read code in Rust and Python. 
